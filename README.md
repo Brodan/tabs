@@ -1,2 +1,2 @@
 # tabs
-A collection of tabs for guitar and bass I've created.
+A collection of instrument tabs that I've written by ear.

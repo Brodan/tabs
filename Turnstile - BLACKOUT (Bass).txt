@@ -1,7 +1,13 @@
 Turnstile - BLACKOUT (Bass)
-Tab by Brodan.
 
-BPM 168 then 140 after 2:15
+Tab by Brodan.
+Tuning: 5-String Standard (BEADG)
+BPM: 168 then 140 after 2:15
+
+| /  slide up
+| \  slide down
+| h  hammer-on
+| p  pull-off
 
 riff 1 (0:31)
 G|----------------------------------------------|

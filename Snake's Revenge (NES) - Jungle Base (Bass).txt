@@ -1,7 +1,13 @@
-Snake's Revenge - Jungle Bass (Bass)
-Tab by Brodan, Robby V.
+Snake's Revenge (NES) - Jungle Base (Bass)
 
-~110.18 BPM
+Tab by Brodan, Robby V.
+Tuning: 5-String Standard (BEADG)
+BPM: ~110.18
+
+| /  slide up
+| \  slide down
+| h  hammer-on
+| p  pull-off
 
 beginning
 G|-----------------------------------------------------12--------|

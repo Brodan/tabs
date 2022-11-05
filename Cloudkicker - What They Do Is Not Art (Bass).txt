@@ -1,7 +1,12 @@
 Cloudkicker - What They Do Is Not Art (Bass Tab)
-Tab by Brodan
 
+Tab by Brodan.
+Tuning: 5-String Drop A (AEADG)
 
+| /  slide up
+| \  slide down
+| h  hammer-on
+| p  pull-off
 
 first riff (0:00)
 G|-----------------------------------------------------------------------|

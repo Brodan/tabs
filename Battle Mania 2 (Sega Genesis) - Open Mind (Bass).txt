@@ -1,5 +1,12 @@
-Battle Mania 2/II Daiginjou - 01 - Open Mind (Bass)
+Battle Mania 2 (Sega Genesis) - Open Mind (Bass)
+
 Tab by Brodan.
+Tuning: 5-String Standard (BEADG)
+
+| /  slide up
+| \  slide down
+| h  hammer-on
+| p  pull-off
 
 G|-------------------------------------------------------------|
 D|----------------1--1-1-1-1-1-1---------------------5---3-----|
